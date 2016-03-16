@@ -1,0 +1,56 @@
+body {
+  background-image:url("../img/bear.jpg");
+}
+
+.column {
+  width: 48%;
+  border: 5px solid black;
+  padding: 5px;
+}
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.float{
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.padbottom{
+  padding-bottom: 118px;
+}
+
+.martop{
+  margin-top:30px;
+}
+
+.padbottom2 {
+  padding-bottom: 185px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.background{
+  background-color: red
+}
+
+div h3 {
+  background-color: white;
+  text-align: center;
+}
+
+div ul {
+  background-color: white;
+}
+
+h1{
+  background-color: blue;
+  color: white;
+}
